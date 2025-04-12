@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
             theme: "Lo nuestro es para siempre, pase lo que pase.",
             photo: "superdomingos.jpg",
             photoCaption: "Nuestro amor no tiene final. Solo un siempre.",
-            audioSrc: "domingo.mp3",
+            audioSrc: "Domingo.mp3",
             audioTranscript: "Mi amor... este domingo me puse a pensar en ti, en nosotros, en lo que siento. Y no encontré final. Porque lo nuestro es infinito, como esas cosas que no se pueden explicar. Solo sé que te amo más de lo que pensé posible, y que te voy a seguir amando mañana, y el día después, y todos los que vengan."
         }
     };
